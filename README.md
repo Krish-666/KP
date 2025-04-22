@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm [Krushna Pangatte]</h1>
 
 🎯 AI Enthusiast • 💻 Python Developer • 🧠 ML Intern  
 🔍 Currently exploring Generative AI, Prompt Engineering, and full-stack development.
